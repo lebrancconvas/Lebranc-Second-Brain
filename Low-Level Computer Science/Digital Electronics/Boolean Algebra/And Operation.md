@@ -1,0 +1,8 @@
+- Symbol
+	- They use symbol like multiplication in arithmatics so I decided to use "*" in the memo
+- Case 
+	- 0 * 0 === 0
+	- 0 * 1 === 0 
+	- 1 * 0 === 0
+	- 1 * 1 === 1
+- 

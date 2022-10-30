@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "a7970b159a25a172",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce1c9ae681e3346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4dcd1fb6246fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Electronics/Boolean Algebra/And Operation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca4e86811485ff00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca931ff3d8a2396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92cbfe59f2a95a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cd1427309a4c214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ada6cdbf090ca8b1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36eaf72dd951cab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c13740bc33c85a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd0d0b6ab4aac43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Electronics/Boolean Algebra/And Operation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2625a5ffa2bb8773",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Electronics/Boolean Algebra/And Operation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d38fc29e09a5378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78ea9b0fe9652ef0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Electronics/Boolean Algebra/And Operation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a4dcd1fb6246fd4",
+  "lastOpenFiles": []
+}
